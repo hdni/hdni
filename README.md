@@ -12,3 +12,5 @@ A modification of [Faience](http://tiheum.deviantart.com/art/GTK3-Gnome-Shell-Fa
 * Install the [FXChrome](https://addons.mozilla.org/en-US/firefox/addon/fxchrome/) theme.
 * Go to your [Add-ons Manager](about:addons), select the User Styles page and then write a new style.
 * Give the style a name and paste the contents of firefox.css.
+* Set the tabs to be on the bottom. You can do so in [about:config](about:config) by setting `browser.tabs.onTop` to false.
+* This style works well with the [Movable Firefox Button](https://addons.mozilla.org/en-us/firefox/addon/movable-firefox-button/), [Favicon Restorer](https://addons.mozilla.org/en-us/firefox/addon/favicon-restorer/?src=search), and [Hide Tabbar](https://addons.mozilla.org/en-us/firefox/addon/hide-tabbar/?src=ss) extensions.
