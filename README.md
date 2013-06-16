@@ -3,7 +3,7 @@ A modification of [Faience](http://tiheum.deviantart.com/art/GTK3-Gnome-Shell-Fa
 
 ## Installation
 ### GNOME Shell, GTK 2 & GTK 3, Mutter
-* Put the entire repository in `usr/share/themes/`
+* Put the entire repository in `/usr/share/themes/`
 * You can then use the Tweak Tool to set the themes.
 * It is safe to remove the firefox.css file from the directory.
 
